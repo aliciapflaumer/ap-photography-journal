@@ -4,7 +4,6 @@ dist
 css
 examples
 js
-src
 test
 demo.html
 gulpfile.js
